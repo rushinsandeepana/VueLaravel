@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@vee-validate/rules": "^4.13.2",
     "core-js": "^3.37.1",
+    "vee-validate": "^4.5.8",
+    "vee-validate-rules": "^0.1.20",
     "vue": "^3.4.35",
     "vue-router": "^4.4.2"
   },
